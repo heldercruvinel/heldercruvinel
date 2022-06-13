@@ -7,9 +7,9 @@
   <a href="https://github.com/heldercruvinel" target="_blank"><img src="	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
-![Snake animation](https://github.com/rafaballerini/heldercruvinel/blob/output/github-contribution-grid-snake.svg)
-
 ##
+
+![Snake animation](https://github.com/heldercruvinel/heldercruvinel/blob/output/github-contribution-grid-snake.svg)
 
 <div>
   <a href="https://github.com/heldercruvinel">
