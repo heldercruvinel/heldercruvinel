@@ -1,8 +1,6 @@
 ##
 ### Hi there, Helder Cruvinel here! 👋
 
-<br>
-
 >:computer: Working on sentry app, vim and zshell plugins, Arduino and Esp32 projects;<br>
 >:alien: Learning linux and ethical hacking tools programing in C and python, simple games with python, vim and shell development;<br>
 >:mag_right: Looking to collaborate on open source projects;<br>
