@@ -1,4 +1,13 @@
-### Hi there, I'm Helder Cruvinel 👋
+##
+### Hi there, Helder Cruvinel here! 👋
+
+<br>
+
+>:computer: Working on sentry app, vim and zshell plugins, Arduino and Esp32 projects;<br>
+>:alien: Learning linux and ethical hacking tools programing in C and python, simple games with python, vim and shell development;<br>
+>:mag_right: Looking to collaborate on open source projects;<br>
+
+<br>
 
 <div>
   <a href="mailto:heldercruvinel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -36,25 +45,48 @@
 
 ##
 
-<div>
-  <a href="https://github.com/heldercruvinel/sentryapi">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=heldercruvinel&repo=sentryapi&show_owner=true&bg_color=424242&title_color=42A5F5&icon_color=7E57C2&text_color=BDBDBD">
-  </a>  
+### Projects
+
+<div  style="display: inline_block">
+    <a href="https://github.com/heldercruvinel/sentryapi" height="120em">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=heldercruvinel&repo=sentryapi&show_owner=true&bg_color=424242&title_color=42A5F5&icon_color=7E57C2&text_color=BDBDBD">
+    </a>
+    <a href="https://github.com/heldercruvinel/carroControleRemoto" height="120em">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=heldercruvinel&repo=carroControleRemoto&show_owner=true&bg_color=424242&title_color=42A5F5&icon_color=7E57C2&text_color=BDBDBD">
+    </a>
 </div>
 
 ##
 
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=heldercruvinel&bg_color=424242&title_color=42A5F5&icon_color=7E57C2&text_color=BDBDBD&custom_title=Coding&layout=compact">
+### Plugins
+
+<div  style="display: inline_block">     
+    <a href="https://github.com/heldercruvinel/vim-config" height="120em">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=heldercruvinel&repo=vim-config&show_owner=true&bg_color=424242&title_color=42A5F5&icon_color=7E57C2&text_color=BDBDBD">
+    </a> 
+    <a href="https://github.com/heldercruvinel/zshell-config" height="120em">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=heldercruvinel&repo=zshell-config&show_owner=true&bg_color=424242&title_color=42A5F5&icon_color=7E57C2&text_color=BDBDBD">
+    </a>  
 </div>
+
+##
+
+### Ethical Hacking
+
+<div  style="display: inline_block">
+    <a href="https://github.com/heldercruvinel/linux-essentials-for-ethical-hacking" height="120em">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=heldercruvinel&repo=linux-essentials-for-ethical-hacking&show_owner=true&bg_color=424242&title_color=42A5F5&icon_color=7E57C2&text_color=BDBDBD">
+    </a>
+</div>
+
+##
+
+
+
 
 
 
 <!-- Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
