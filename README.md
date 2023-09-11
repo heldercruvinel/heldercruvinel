@@ -17,7 +17,7 @@
 ##
 
 
-[comment]: # ![Snake animation](https://github.com/heldercruvinel/heldercruvinel/blob/output/github-contribution-grid-snake.svg)
+[comment]: ![Snake animation](https://github.com/heldercruvinel/heldercruvinel/blob/output/github-contribution-grid-snake.svg)
 
 
 <div>
