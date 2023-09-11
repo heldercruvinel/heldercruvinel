@@ -16,8 +16,6 @@
 
 ##
 
-[comment]: ![Snake animation](https://github.com/heldercruvinel/heldercruvinel/blob/output/github-contribution-grid-snake.svg)
-
 <div>
   <a href="https://github.com/heldercruvinel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heldercruvinel&show_icons=true&bg_color=424242&title_color=42A5F5&icon_color=7E57C2&text_color=BDBDBD&custom_title=Helder%27s%20Github%20stats&include_all_commits=true&count_private=true">
